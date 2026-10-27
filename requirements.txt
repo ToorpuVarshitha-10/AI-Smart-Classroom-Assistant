@@ -1,0 +1,7 @@
+Flask
+openai-whisper
+pydub
+fpdf
+transformers==4.44.2
+sentencepiece
+torch
